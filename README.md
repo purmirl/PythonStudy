@@ -1,2 +1,3 @@
 # PythonStudy
-Python Study Repository
+Python Study Repository by PeTrA2020 ~ 
+----------------------------------------------------
